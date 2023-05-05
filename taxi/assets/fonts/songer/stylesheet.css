@@ -1,0 +1,45 @@
+@font-face {
+    font-family: 'SONGER';
+    src: url('SONGERSemiExpanded-Heavy.woff2') format('woff2'),
+        url('SONGERSemiExpanded-Heavy.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'SONGER';
+    src: url('SONGERSemiExpanded-ExtraBold.woff2') format('woff2'),
+        url('SONGERSemiExpanded-ExtraBold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'SONGER';
+    src: url('SONGERSemiExpanded.woff2') format('woff2'),
+        url('SONGERSemiExpanded.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'SONGER';
+    src: url('SONGERSemiExpanded-Medium.woff2') format('woff2'),
+        url('SONGERSemiExpanded-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'SONGER';
+    src: url('SONGERSemiExpanded-Bold.woff2') format('woff2'),
+        url('SONGERSemiExpanded-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
